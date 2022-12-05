@@ -18,7 +18,7 @@ On that When customer eneters to the shop,
 
 After that customer can enter the shop safely.
 
-![img.png](img.png)
+![img.png](https://github.com/CovidPro/.github/blob/main/profile/img.png)
 
 ![img_1.png](img_1.png)
 
