@@ -20,7 +20,7 @@ After that customer can enter the shop safely.
 
 ![img.png](https://github.com/CovidPro/.github/blob/main/profile/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](profile/img_1.png)
 
 ![img_2.png](img_2.png)
 
