@@ -22,21 +22,21 @@ After that customer can enter the shop safely.
 
 ![img_1.png](profile/img_1.png)
 
-![img_2.png](img_2.png)
+![img_2.png](profile/img_2.png)
 
-![img_3.png](img_3.png)
+![img_3.png](profile/img_3.png)
 
-![img_4.png](img_4.png)
+![img_4.png](profile/img_4.png)
 
-![img_5.png](img_5.png)
+![img_5.png](profile/img_5.png)
 
-![img_7.png](img_7.png)
+![img_7.png](profile/img_7.png)
 
-![img_8.png](img_8.png)
+![img_8.png](profile/img_8.png)
 
-![img_9.png](img_9.png)
+![img_9.png](profile/img_9.png)
 
-![img_6.png](img_6.png)
+![img_6.png](profile/img_6.png)
 
 
 
@@ -45,22 +45,22 @@ After that customer can enter the shop safely.
 
 Authentication and Recognize and store data to shop by QR code scanning.
 
-![img_10.png](img_10.png)
+![img_10.png](profile/img_10.png)
 
-![img_11.png](img_11.png)
+![img_11.png](profile/img_11.png)
 
-![img_12.png](img_12.png)
+![img_12.png](profile/img_12.png)
 
-![img_13.png](img_13.png)
+![img_13.png](profile/img_13.png)
 
 ## Hardware Part
 
 Automatic Hand Sanitizer which triggers when user hand is near.
 Temperature Measurement of user.
 
-![img_14.png](img_14.png)
+![img_14.png](profile/img_14.png)
 
-![img_15.png](img_15.png)
+![img_15.png](profile/img_15.png)
 
 
 # Tech Stack
